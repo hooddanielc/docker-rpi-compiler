@@ -1,0 +1,1 @@
+docker run -ti -v `pwd`:/home/developer/src dhoodlum/rpi-compiler bash
